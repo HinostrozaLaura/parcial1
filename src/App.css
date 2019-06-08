@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+.Encabezado{
+  background-color: #61dafb;
+  font-size: 40px;
+  text-align: center;
+  color: rgb(27, 151, 54)
+  
+}
+.tipohelado{
+  background-color: #68b80d;
+  font-size: 40px;
+ 
+  color: rgb(204, 194, 173)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
